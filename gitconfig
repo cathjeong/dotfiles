@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = cathjeong@gmail.com
+	name = Catherine Jeong
